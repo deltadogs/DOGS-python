@@ -7,11 +7,10 @@ A derivative-free global optimization algorithm based on Delaunay triangulation 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
+You need to downlaod and install anaconda python 3 package:
 
 ```
-Give examples
+https://www.anaconda.com/download/#macos
 ```
 
 ## Installation
@@ -35,12 +34,9 @@ Here is an example on Schewfel function.
 ### Test demo
 
 
-
 ```
 python dogsmain1.py
 ```
-
-### And coding style tests
 
 
 
