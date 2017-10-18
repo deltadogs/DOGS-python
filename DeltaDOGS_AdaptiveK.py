@@ -147,7 +147,8 @@ for ff in range(nff):
                         tmp = 1e+20
                     else:
                         tmp = (dogs.interpolate_val(xc, inter_par) - y0) / dogs.mindis(xc, xE)[0]
-                    if (np.amin(yu)) < tmp:
+                        # both dicrete search function values need to be compared.
+                    if (5*np.amin(yu)) < tmp and np.amin(yu)>0:
                         t = np.amin(yu)
                         ind = np.argmin(yu)
                         xc = xU[:, ind]
