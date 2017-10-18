@@ -42,7 +42,7 @@ python dogsmain1.py
 
 ## Authors
 
-* **Shahrouz Ryan Alimo** - *Initial work* - [PurpleBooth](https://github.com/salimoha)
+* **Shahrouz Ryan Alimo** - *Initial work* - [PurpleBooth](https://github.com/salimoha) [PurpleBooth](https://acsweb.ucsd.edu/~salimoha/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -52,9 +52,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+[UCSD flow control and robotics labs](https://www.ucsdrobotics.org/derivative-free-optimization) 
+
 
 
 
