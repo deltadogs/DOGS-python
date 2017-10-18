@@ -25,7 +25,9 @@ And then
 ```
 cd DOGS-python
 ```
-
+## The essential elements of DeltaDOGS
+The essential elements of  DeltaDOGS, in different iterations for a 1D example. Top subfigures indicate (black) the truth function f(x), (blue) the interpolating surrogate function p(x), (green) the synthetic model of the uncertainty e(x), (dashed) the target value f0 = 0.07, and (black circles) previous datapoints. Bottom subfigures indicate the search function s(x), as defined in (2), and (red circles) the minimizer of s(x), the next datapoint to evaluate.
+![](deltadogs.png)
 
 ## Running the tests
 
@@ -37,6 +39,7 @@ Here is an example on Schewfel function.
 ```
 python DeltaDOGS_AdaptiveK.py
 ```
+
 
 ## Release History
 
