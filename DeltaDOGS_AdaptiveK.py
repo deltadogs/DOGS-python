@@ -177,5 +177,5 @@ for ff in range(nff):
         plt.title('Candidate point')
         plt.plot(np.arange(num_iter)+1, yE_best)
         plt.grid()
-        plt.savefig('.figs/' + str(ff) + '/BestCandidate' +'.png', format='png', dpi=1000)
+        plt.savefig('./figs/' + str(ff) + '/BestCandidate' +'.png', format='png', dpi=1000)
            #%%
