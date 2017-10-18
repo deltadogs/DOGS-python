@@ -1,10 +1,13 @@
 # DOGS-python
 
-A derivative-free global optimization algorithm based on Delaunay triangulation designed to solve efficiently the problems whose function evaluations process is nonconvex and computationally expensive. This package particularly well-suited when the objective function is like a black-box function.
+A derivative-free global optimization algorithm based on Delaunay triangulation designed to solve efficiently the problems whose function evaluations process is nonconvex and computationally expensive. This package particularly well-suited when the objective function is like a black-box function. 
+### Limitations
+The limitation is on number of paramteres which need to be less than ten.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. 
+
 
 ### Prerequisites
 You need to downlaod and install anaconda python 3 package:
