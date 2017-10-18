@@ -42,7 +42,7 @@ python dogsmain1.py
 
 ## Authors
 
-* **Shahrouz Ryan Alimo** - *Initial work* - [PurpleBooth](https://github.com/salimoha) [PurpleBooth](https://acsweb.ucsd.edu/~salimoha/)
+* **Shahrouz Ryan Alimo** - *Initial work* - [github](https://github.com/salimoha) [webpage](https://acsweb.ucsd.edu/~salimoha/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
