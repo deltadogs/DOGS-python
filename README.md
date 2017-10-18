@@ -51,7 +51,7 @@ python dogsmain1.py
 ## Authors
 
 * **Shahrouz Ryan Alimo** - *Initial work* - [github](https://github.com/salimoha) [webpage](https://acsweb.ucsd.edu/~salimoha/)
-
+* **Muhan Zhao** - *Contributor* -  
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
