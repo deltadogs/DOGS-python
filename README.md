@@ -68,6 +68,8 @@ This project is licensed under the MIT License - see the [License.md](License.md
 
 [UCSD flow control and robotics labs](https://www.ucsdrobotics.org/derivative-free-optimization) 
 
+Please cite: 
+[this page](http://roger.ucsd.edu/record=b9585175~S9) 
 
 
 
