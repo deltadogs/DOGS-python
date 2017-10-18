@@ -38,6 +38,14 @@ Here is an example on Schewfel function.
 python dogsmain1.py
 ```
 
+## Release History
+
+
+* 0.1.0
+    * The first proper release
+    * ADD: add constant K method 
+* 0.0.1
+    * Work in progress
 
 
 ## Authors
