@@ -35,7 +35,7 @@ Here is an example on Schewfel function.
 
 
 ```
-python dogsmain1.py
+python DeltaDOGS_AdaptiveK.py
 ```
 
 ## Release History
