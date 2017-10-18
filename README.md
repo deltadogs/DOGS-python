@@ -1,6 +1,6 @@
 # DOGS-python
 
-A derivative-free global optimization algorithm based on Delaunay triangulation designed to solve efficiently the problems whose function evaluations process is inaccurate, but its accuracy can be improved by increasing its computational cost. This package particularly well-suited when the objective function is like a black-box function.
+A derivative-free global optimization algorithm based on Delaunay triangulation designed to solve efficiently the problems whose function evaluations process is nonconvex and computationally expensive. This package particularly well-suited when the objective function is like a black-box function.
 
 ## Getting Started
 
