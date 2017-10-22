@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 You need to downlaod and install anaconda python 3 package:
 
 ```
-https://www.anaconda.com/download/#macos
+https://www.anaconda.com/download/
 ```
 
 ## Installation
