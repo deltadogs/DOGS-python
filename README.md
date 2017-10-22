@@ -57,7 +57,7 @@ python DeltaDOGS_AdaptiveK.py
 ## Authors
 
 * **Shahrouz Ryan Alimo** - *Initial work and correponding author* - [github](https://github.com/salimoha) [webpage](https://acsweb.ucsd.edu/~salimoha/)
-* **Pooriya Beyhaghi** - *Initial work* - 
+* **Pooriya Beyhaghi** - *Initial work for MATLAB package* - 
 * **Muhan Zhao** - *Contributor* -  
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
